@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QLTV</string>
+    <string name="manager_screen" />
+    <string name="user_screen" />
+</resources>
